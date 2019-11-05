@@ -1,37 +1,12 @@
-# Blueprint Starter README
+# Lono CloudFormation Framework Introduction Series Part 3: Configs Params Variables
 
-## Usage
+This contains the source code from the Blog Tutorial: [Lono CloudFormation Framework Introduction Series Part 3: Configs Params Variables
+](...)
 
-1. Configure: configs/BLUEPRINT values
-2. Deploy blueprint
+## Commands from tutorial
 
-## Configure
+    lono cfn deploy demo
 
-First you want to configure the `configs/BLUEPRINT/params` and `configs/BLUEPRINT/variables` files.
+## Back to Main Readme
 
-If the blueprint has implemented it, you can use `lono seed` to quickly configure starter values for these `config/BLUEPRINT` files.
-
-    LONO_ENV=development lono seed BLUEPRINT --args key1:value1 key2:value2
-
-To additional environments:
-
-    LONO_ENV=production  lono seed BLUEPRINT --args key1:value1 key2:value2
-
-The generated files in `config/BLUEPRINT` folder look something like this:
-
-    configs/BLUEPRINT/
-    ├── params
-    │   ├── development.txt
-    │   └── production.txt
-    └── variables
-        ├── development.rb
-        └── production.rb
-
-The PARAM depends on how the blueprint was authored.  The PARAM conventionally defaults to BLUEPRINT.
-
-## Deploy
-
-Use the [lono cfn deploy](http://lono.cloud/reference/lono-cfn-deploy/) command to deploy. Example:
-
-    LONO_ENV=development lono cfn deploy BLUEPRINT-development --blueprint BLUEPRINT --iam
-    LONO_ENV=production  lono cfn deploy BLUEPRINT-production --blueprint BLUEPRINT --iam
+[Main Readme](https://github.com/tongueroo/lono-cloudformation-examples)
