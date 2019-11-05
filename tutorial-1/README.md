@@ -15,4 +15,4 @@ This contains the source code from the Blog Tutorial: [Lono CloudFormation Frame
 
 ## Back to Main Readme
 
-[Main Readme](../README.md)
+[Main Readme](..)
