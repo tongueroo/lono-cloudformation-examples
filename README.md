@@ -26,3 +26,7 @@ Commands:
 Commands:
 
     lono cfn deploy demo
+
+## Raw CloudFormation Tutorial Series
+
+You may also be interested in the [Raw CloudFormation Examples](https://github.com/tongueroo/cloudformation-examples) from the [A Simple Introduction to AWS CloudFormation Series](https://blog.boltops.com/2017/03/06/a-simple-introduction-to-aws-cloudformation-part-1-ec2-instance).
