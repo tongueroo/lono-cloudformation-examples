@@ -9,7 +9,7 @@ These are some basic CloudFormation template examples.  This examples are part o
 
 ### Tutorial 1
 
-Source code: [Tutorial 1](tutorial-1)
+[Tutorial 1 Source Code](tutorial-1)
 
 Commands:
 
