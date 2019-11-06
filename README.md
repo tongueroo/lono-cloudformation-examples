@@ -23,9 +23,9 @@ Commands:
 
 [Tutorial 2 Source Code](tutorial-2)
 
-Commands:
+## Tutorial 3
 
-    lono cfn deploy demo
+[Tutorial 3 Source Code](tutorial-3)
 
 ## Raw CloudFormation Tutorial Series
 
