@@ -4,7 +4,13 @@ This contains the source code from the Blog Tutorial: [Lono CloudFormation Frame
 
 ## Commands from tutorial
 
+Deploy:
+
     lono cfn deploy demo
+
+Cleanup:
+
+    lono cfn delete demo
 
 ## Back to Main Readme
 
