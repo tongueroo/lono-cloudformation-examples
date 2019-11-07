@@ -25,6 +25,11 @@ Commands:
 
 [Tutorial 2 Source Code](tutorial-2)
 
+Commands:
+
+    lono cfn deploy demo
+    lono cfn delete demo
+
 ## Tutorial 3
 
 [Tutorial 3 Source Code](tutorial-3)
