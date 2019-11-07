@@ -27,6 +27,22 @@ Commands:
 
 [Tutorial 3 Source Code](tutorial-3)
 
+Commands:
+
+    lono cfn deploy demo
+    lono cfn delete demo
+
+## Tutorial 4
+
+[Tutorial 4 Source Code](tutorial-4)
+
+Commands:
+
+    LONO_ENV=development lono cfn deploy demo-development --blueprint demo
+    LONO_ENV=production  lono cfn deploy demo-production  --blueprint demo
+    LONO_ENV=development lono cfn delete demo-development
+    LONO_ENV=production  lono cfn delete demo-production
+
 ## Raw CloudFormation Tutorial Series
 
 You may also be interested in the [Raw CloudFormation Examples](https://github.com/tongueroo/cloudformation-examples) from the [A Simple Introduction to AWS CloudFormation Series](https://blog.boltops.com/2017/03/06/a-simple-introduction-to-aws-cloudformation-part-1-ec2-instance).
