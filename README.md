@@ -2,8 +2,10 @@
 
 These are some basic CloudFormation template examples.  This examples are part of the Lono CloudFormation Framework Introduction blog tutorial series.
 
-1. [Lono CloudFormation Framework Introduction Series Part 1: EC2 Instance](https://blog.boltops.com/2019/10/30/lono-cloudformation-framework-introduction-series-part-1-ec2-instance)
-2. [Lono CloudFormation Framework Introduction Series Part 2: EC2, EIP, and Preview](https://blog.boltops.com/2019/11/05/lono-cloudformation-framework-introduction-series-part-2-ec2-eip-and-preview)
+* [Part 1: EC2 Instance](https://blog.boltops.com/2019/10/30/lono-cloudformation-framework-introduction-series-part-1-ec2-instance)
+* [Part 2: EC2, EIP, and Preview](https://blog.boltops.com/2019/11/05/lono-cloudformation-framework-introduction-series-part-2-ec2-eip-and-preview)
+* [Part 3: Configs Params Variables](https://blog.boltops.com/2019/11/06/lono-cloudformation-framework-introduction-series-part-3-configs-params-variables)
+* [Part 4: Layering](https://blog.boltops.com/2019/11/07/lono-cloudformation-framework-introduction-series-part-4-layering)
 
 ## Tutorial 1
 
