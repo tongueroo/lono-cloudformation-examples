@@ -1,5 +1,7 @@
 # Lono CloudFormation Examples
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 These are some basic CloudFormation template examples.  This examples are part of the Lono CloudFormation Framework Introduction blog tutorial series.
 
 * [Part 1: EC2 Instance](https://blog.boltops.com/2019/10/30/lono-cloudformation-framework-introduction-series-part-1-ec2-instance)
